@@ -18,7 +18,7 @@ This is a classic Snake Game built using Python with the Pygame library. The obj
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/PittViic/snake-game.git
+    git clone https://github.com/viictorcsv/snake-game.git
     cd snake-game
     ```
 
