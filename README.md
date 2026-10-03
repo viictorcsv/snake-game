@@ -1,10 +1,10 @@
-# Snake Game 🐍
+# Snake Game
 
 This is a classic Snake Game built using Python with the Pygame library. The objective is simple: control the snake to eat the red apples, growing longer with each one you consume. Don't run into yourself or the walls\!
 
 -----
 
-## ✨ Features
+## Features
 
   * **Classic Gameplay**: Enjoy the nostalgic feel of the original Snake game.
   * **Intuitive Controls**: Use the arrow keys (`↑`, `↓`, `←`, `→`) or `W`, `A`, `S`, `D` keys to navigate the snake.
@@ -13,7 +13,7 @@ This is a classic Snake Game built using Python with the Pygame library. The obj
 
 -----
 
-## ⚙️ How to Play
+## How to Play
 
 1.  **Clone the repository**:
 
@@ -39,7 +39,7 @@ This is a classic Snake Game built using Python with the Pygame library. The obj
 
 -----
 
-## 🎮 Controls
+## Controls
 
   * **Move Up**: `↑` or `W`
   * **Move Down**: `↓` or `S`
@@ -48,7 +48,7 @@ This is a classic Snake Game built using Python with the Pygame library. The obj
 
 -----
 
-## 🛠️ Built With
+## Built With
 
   * [Python](https://www.python.org/)
   * [Pygame](https://www.pygame.org/)
